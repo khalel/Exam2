@@ -1,0 +1,8 @@
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\obj\Debug\netcoreapp3.0\QLESS.Contract.csprojAssemblyReference.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\obj\Debug\netcoreapp3.0\QLESS.Contract.AssemblyInfoInputs.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\obj\Debug\netcoreapp3.0\QLESS.Contract.AssemblyInfo.cs
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\bin\Debug\netcoreapp3.0\QLESS.Contract.deps.json
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\bin\Debug\netcoreapp3.0\QLESS.Contract.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\bin\Debug\netcoreapp3.0\QLESS.Contract.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\obj\Debug\netcoreapp3.0\QLESS.Contract.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Contract\obj\Debug\netcoreapp3.0\QLESS.Contract.pdb

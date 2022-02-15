@@ -1,0 +1,11 @@
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.AssemblyInfoInputs.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.AssemblyInfo.cs
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.csprojAssemblyReference.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\bin\Debug\netcoreapp3.0\QLESS.Controller.deps.json
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\bin\Debug\netcoreapp3.0\QLESS.Controller.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\bin\Debug\netcoreapp3.0\QLESS.Controller.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\bin\Debug\netcoreapp3.0\QLESS.Contract.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\bin\Debug\netcoreapp3.0\QLESS.Contract.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Controller\obj\Debug\netcoreapp3.0\QLESS.Controller.csproj.CopyComplete

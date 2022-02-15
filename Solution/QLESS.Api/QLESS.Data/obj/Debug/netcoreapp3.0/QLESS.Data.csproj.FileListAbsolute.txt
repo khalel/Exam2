@@ -1,0 +1,15 @@
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.csprojAssemblyReference.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.AssemblyInfoInputs.cache
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.AssemblyInfo.cs
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Domain.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Data.deps.json
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Data.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Data.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Domain.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.csproj.CopyComplete
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\obj\Debug\netcoreapp3.0\QLESS.Data.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Contract.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Contract.pdb
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Controller.dll
+D:\- files\Jobs\Magenic\Exam\QLESS.Api\QLESS.Data\bin\Debug\netcoreapp3.0\QLESS.Controller.pdb
